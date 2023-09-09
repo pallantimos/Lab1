@@ -1,0 +1,8 @@
+2023-09-02 15:49:15,201 DEBUG logger configured
+2023-09-02 15:49:15,202 INFO App Start
+2023-09-02 15:49:15,202 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "G:\Лабораторные ПИТПП\Лабораторная 1\Lab1.py", line 10, in <module>
+    x/y
+    ~^~
+ZeroDivisionError: division by zero
